@@ -10,7 +10,7 @@ public class NumberGuessingGame {
         int maxRange = 100;
         int maxAttempts = 10;
 
-        int score = 0;
+        int score = 0;//score
         boolean playAgain = true;
 
         while (playAgain) {
